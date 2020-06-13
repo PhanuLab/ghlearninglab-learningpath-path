@@ -1,0 +1,13 @@
+title: GHLearningLab-LearningPath
+description: >-
+  631-GHLearningLab template course from github's learning lab for those
+  interested, particularly the ssrucs students enrolling in the courses taught
+  by PhanuLAB staffs from the first semester of the academic year 2020
+steps:
+  - course: githubtraining/introduction-to-github
+    description: The first step in your course
+  - link: 'https://lab.github.com'
+    title: Check out Learning Lab for more courses!
+    description: >-
+      There are many more courses available on Learning Lab for you to check
+      out.
